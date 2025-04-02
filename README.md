@@ -14,7 +14,7 @@ I'm a **2nd-year Computer Science student at VIT Bhopal**, passionate about **We
 #### Technologies & Frameworks:
 ![APIs](https://img.shields.io/badge/APIs-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Radio](https://img.shields.io/badge/Radio-6DA55F?style=for-the-badge)
+![Gradio](https://img.shields.io/badge/Radio-6DA55F?style=for-the-badge)
 
 #### Topics of Interest:
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
