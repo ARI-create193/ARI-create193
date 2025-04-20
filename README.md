@@ -28,7 +28,7 @@ I'm a **2nd-year Computer Science student at VIT Bhopal**, passionate about **We
 ### 💡 Featured Projects
 - 🎙️ **[Speech-to-Text Translation Tool](https://github.com/ARI-create193/Speech-to-Text_TranslationTool)** – Converts speech to text and translates it.
 - 🖼️ **[Free-Style Image Generator](https://github.com/ARI-create193/Free-Style-Image-Generator-Hugging_Face)** – Generates images using Hugging Face API.
-- 🛡️ **[Phishing URL Detection](https://github.com/ARI-create193/Phishing-URL-Detection)** – Detects phishing URLs using ML and NLP.
+- 🛡️ **[Phishing URL Detection_Extension ](https://github.com/ARI-create193/Phishing-URL-Detection)** – Detects phishing URLs using ML and NLP.
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-omprakash-kaminwar-0b226328a/)
