@@ -35,7 +35,6 @@ I'm a **2nd-year Computer Science student at VIT Bhopal**, passionate about **We
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iykyk_aarryyaan/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryankaminwar@gmail.com)
 
-
 ### 🔥 Streaks & Contributions
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ARI-create193&theme=github-dark)
