@@ -95,6 +95,7 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   📈  EDA & Feature Engineering    ██████████░░  85%
   🤖  Supervised ML Models         ████████░░░░  70%
+  🔎  Data Analytics               ██████░░░░░░  55%
   ☁️  Data Pipeline Deployment     ████░░░░░░░░  35%
   📊  DSA for Interviews           ███░░░░░░░░░  30%
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
