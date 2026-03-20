@@ -29,7 +29,7 @@
   </tr>
   <tr>
     <td><b>🎓 University</b></td>
-    <td>VIT Bhopal — CS Sophomore (3rd Year)</td>
+    <td>VIT Bhopal — CS Sophomore (2nd Year)</td>
   </tr>
   <tr>
     <td><b>🔭 Focus</b></td>
@@ -41,7 +41,7 @@
   </tr>
   <tr>
     <td><b>📚 Currently Learning</b></td>
-    <td>NLP · Feature Engineering</td>
+    <td>Neural Networks · NLP · Feature Engineering</td>
   </tr>
   <tr>
     <td><b>🔍 Superpower</b></td>
@@ -123,8 +123,8 @@
 
 <div align="center">
 
-![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARI-create193&show_icons=true&theme=tokyonight&border_radius=15&hide_border=false&title_color=00D9FF&icon_color=00D9FF)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARI-create193&layout=compact&theme=tokyonight&border_radius=15&title_color=00D9FF)
+![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARI-create193&show_icons=true&theme=radical&border_radius=15&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARI-create193&layout=compact&theme=radical&border_radius=15)
 
 </div>
 
