@@ -95,10 +95,8 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   📈  EDA & Feature Engineering    ██████████░░  85%
   🤖  Supervised ML Models         ████████░░░░  70%
-  🧠  Neural Networks (basics)     ██████░░░░░░  55%
-  📝  NLP & Text Analytics         █████░░░░░░░  45%
   ☁️  Data Pipeline Deployment     ████░░░░░░░░  35%
-  📊  DSA for Interviews           ███████░░░░░  65%
+  📊  DSA for Interviews           ███░░░░░░░░░  30%
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
