@@ -20,26 +20,30 @@
 
 ---
 
-## 🧬 `import aryan as ds_student`
+🖥️ ~ $ aryan --info
+bash╔══════════════════════════════════════════════════════════════╗
+║              ARYAN KAMINWAR  //  DS_STUDENT v2.0             ║
+╚══════════════════════════════════════════════════════════════╝
 
-```python
-class AryanKaminwar:
-    def __init__(self):
-        self.name        = "Aryan Omprakash Kaminwar"
-        self.university  = "VIT Bhopal"
-        self.year        = "2nd Year — CS Sophomore"
-        self.focus       = ["Data Science", "Machine Learning", "EDA"]
-        self.languages   = ["Python", "SQL", "R", "C++", "Java"]
-        self.superpower  = "Finding patterns where others see noise 🔍"
-        self.currently   = "Building end-to-end ML pipelines 🛠️"
-        self.goal        = "Make data tell stories that matter 📖"
+aryan@vit-bhopal:~$ whoami
+  → Aryan Omprakash Kaminwar
+  → 2nd Year CS Student @ VIT Bhopal 🎓
 
-    def say_hi(self):
-        print("Hey! Let's explore data together 🚀")
+aryan@vit-bhopal:~$ cat focus.txt
+  → Data Science | Machine Learning | EDA | Statistics
 
-me = AryanKaminwar()
-me.say_hi()
-```
+aryan@vit-bhopal:~$ python3 -c "print(my_superpower)"
+  → "Finding patterns where others see noise 🔍"
+
+aryan@vit-bhopal:~$ git status
+  → Currently : Building end-to-end ML pipelines 🛠️
+  → Learning  : Neural Networks & NLP 🧠
+  → Goal      : Make data tell stories that matter 📖
+
+aryan@vit-bhopal:~$ ping world
+  → PONG! Hey! Let's explore data together 🚀
+
+aryan@vit-bhopal:~$ █
 
 ---
 
