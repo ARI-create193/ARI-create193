@@ -143,7 +143,7 @@
 
 ## 📫 Let's Connect & Collaborate
 
-<div align="center">
+<div align="left">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aryankaminwar.lovable.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-omprakash-kaminwar-ari-0b226328a/)
