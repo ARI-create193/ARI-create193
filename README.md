@@ -29,7 +29,7 @@
   </tr>
   <tr>
     <td><b>🎓 University</b></td>
-    <td>VIT Bhopal — CS Sophomore (2nd Year)</td>
+    <td>VIT Bhopal — CS Sophomore (3rd Year)</td>
   </tr>
   <tr>
     <td><b>🔭 Focus</b></td>
@@ -41,7 +41,7 @@
   </tr>
   <tr>
     <td><b>📚 Currently Learning</b></td>
-    <td>Neural Networks · NLP · Feature Engineering</td>
+    <td>NLP · Feature Engineering</td>
   </tr>
   <tr>
     <td><b>🔍 Superpower</b></td>
