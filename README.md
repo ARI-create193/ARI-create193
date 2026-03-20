@@ -20,30 +20,42 @@
 
 ---
 
-🖥️ ~ $ aryan --info
-bash╔══════════════════════════════════════════════════════════════╗
-║              ARYAN KAMINWAR  //  DS_STUDENT v2.0             ║
-╚══════════════════════════════════════════════════════════════╝
+## 🪪 About Me
 
-aryan@vit-bhopal:~$ whoami
-  → Aryan Omprakash Kaminwar
-  → 2nd Year CS Student @ VIT Bhopal 🎓
-
-aryan@vit-bhopal:~$ cat focus.txt
-  → Data Science | Machine Learning | EDA | Statistics
-
-aryan@vit-bhopal:~$ python3 -c "print(my_superpower)"
-  → "Finding patterns where others see noise 🔍"
-
-aryan@vit-bhopal:~$ git status
-  → Currently : Building end-to-end ML pipelines 🛠️
-  → Learning  : Neural Networks & NLP 🧠
-  → Goal      : Make data tell stories that matter 📖
-
-aryan@vit-bhopal:~$ ping world
-  → PONG! Hey! Let's explore data together 🚀
-
-aryan@vit-bhopal:~$ █
+<table>
+  <tr>
+    <td><b>👤 Name</b></td>
+    <td>Aryan Omprakash Kaminwar</td>
+  </tr>
+  <tr>
+    <td><b>🎓 University</b></td>
+    <td>VIT Bhopal — CS Sophomore (2nd Year)</td>
+  </tr>
+  <tr>
+    <td><b>🔭 Focus</b></td>
+    <td>Data Science · Machine Learning · EDA · Statistics</td>
+  </tr>
+  <tr>
+    <td><b>🛠️ Currently Building</b></td>
+    <td>End-to-end ML pipelines</td>
+  </tr>
+  <tr>
+    <td><b>📚 Currently Learning</b></td>
+    <td>Neural Networks · NLP · Feature Engineering</td>
+  </tr>
+  <tr>
+    <td><b>🔍 Superpower</b></td>
+    <td>Finding patterns where others see noise</td>
+  </tr>
+  <tr>
+    <td><b>🎯 Goal</b></td>
+    <td>Make data tell stories that matter 📖</td>
+  </tr>
+  <tr>
+    <td><b>⚡ Fun Fact</b></td>
+    <td>I debug my life with <code>print()</code> statements 😄</td>
+  </tr>
+</table>
 
 ---
 
