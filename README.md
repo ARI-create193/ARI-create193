@@ -130,7 +130,7 @@
 
 ## 🔥 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ARI-create193&theme=react-dark&color=00D9FF&line=00D9FF&point=ffffff)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ARI-create193&theme=merko&color=00FF9C&line=00FF9C&point=ffffff)
 
 ---
 
